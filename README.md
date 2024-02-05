@@ -27,9 +27,7 @@ The results are visualized using Matplotlib, showing actual and predicted stock 
 
 Feel free to contribute by opening issues or submitting pull requests. Your contributions are highly welcome!
 
-## License
 
-This project is licensed under the [Your License] - see the LICENSE.md file for details.
 
 ## Acknowledgments
 
